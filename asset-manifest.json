@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Plotline-task/static/css/main.fef721bd.css",
+    "main.js": "/Plotline-task/static/js/main.569c0769.js",
+    "index.html": "/Plotline-task/index.html",
+    "main.fef721bd.css.map": "/Plotline-task/static/css/main.fef721bd.css.map",
+    "main.569c0769.js.map": "/Plotline-task/static/js/main.569c0769.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef721bd.css",
+    "static/js/main.569c0769.js"
+  ]
+}
